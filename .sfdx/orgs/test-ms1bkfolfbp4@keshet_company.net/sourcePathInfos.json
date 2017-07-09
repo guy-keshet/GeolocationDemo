@@ -32,28 +32,28 @@
     [
         "/Users/Keshet/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 306,
             "modifiedTime": 1499615914000,
             "changeTime": 1499615914000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Keshet/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1499615651000,
-            "changeTime": 1499615651000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 170,
+            "modifiedTime": 1499616284000,
+            "changeTime": 1499616284000,
+            "isWorkspace": false,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
@@ -856,7 +856,7 @@
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 272,
-            "modifiedTime": 1499615734000,
+            "modifiedTime": 1499616473000,
             "changeTime": 1499615734000,
             "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
             "isMetadataFile": false,
@@ -866,14 +866,14 @@
     [
         "/Users/Keshet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 157,
-            "modifiedTime": 1499615707000,
-            "changeTime": 1499615707000,
-            "contentHash": "0156aa8f69e1e3c49a79f55b0b4559078c85787d",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 159,
+            "modifiedTime": 1499616473000,
+            "changeTime": 1499616473000,
+            "contentHash": "34017bdf5621580691dd2077c62b561355980215"
         }
     ],
     [
@@ -944,92 +944,274 @@
     [
         "/Users/Keshet/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1499615914000,
             "changeTime": 1499615914000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/Keshet/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17654,
             "modifiedTime": 1499615914000,
             "changeTime": 1499615914000,
-            "contentHash": "7728518dab3962f79430eb54069b315691a9400b"
+            "contentHash": "7728518dab3962f79430eb54069b315691a9400b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/Keshet/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5767,
             "modifiedTime": 1499615914000,
             "changeTime": 1499615914000,
-            "contentHash": "a10e74fdbe768a899b68167f4ac7c0f13124723d"
+            "contentHash": "a10e74fdbe768a899b68167f4ac7c0f13124723d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/Keshet/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5429,
             "modifiedTime": 1499615914000,
             "changeTime": 1499615914000,
-            "contentHash": "2edc3bf49c46276d990ccce2d0ef7571a8bd5147"
+            "contentHash": "2edc3bf49c46276d990ccce2d0ef7571a8bd5147",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/Keshet/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5429,
             "modifiedTime": 1499615914000,
             "changeTime": 1499615914000,
-            "contentHash": "2edc3bf49c46276d990ccce2d0ef7571a8bd5147"
+            "contentHash": "2edc3bf49c46276d990ccce2d0ef7571a8bd5147",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/Keshet/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1499615914000,
             "changeTime": 1499615914000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/Keshet/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1499615914000,
             "changeTime": 1499615914000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1499616380000,
+            "changeTime": 1499616380000,
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1499616273000,
+            "changeTime": 1499616273000,
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 335,
+            "modifiedTime": 1499616327000,
+            "changeTime": 1499616327000,
+            "contentHash": "efea5f1e1174aa3663842a1d159b2d95586a29aa"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1499616284000,
+            "changeTime": 1499616284000,
+            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 112,
+            "modifiedTime": 1499616380000,
+            "changeTime": 1499616380000,
+            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1499616360000,
+            "changeTime": 1499616360000,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1499616284000,
+            "changeTime": 1499616284000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1499616284000,
+            "changeTime": 1499616284000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1499616248000,
+            "changeTime": 1499616248000,
+            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1499616207000,
+            "changeTime": 1499616207000,
+            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 171,
+            "modifiedTime": 1499616273000,
+            "changeTime": 1499616273000,
+            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1499616207000,
+            "changeTime": 1499616207000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1499616207000,
+            "changeTime": 1499616207000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Keshet/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1499616207000,
+            "changeTime": 1499616207000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
